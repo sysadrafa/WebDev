@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+  }
+
+  h1{
+    color:crimson;
+  }
+  h3{
+  color: crimson;
+  }
+  hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: crimson;
+    border-width: 5px;
+    width: 5%;
+}
