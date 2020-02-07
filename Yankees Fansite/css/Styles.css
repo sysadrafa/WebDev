@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
   color: Navy;
   font-size: 50px;
@@ -26,3 +27,33 @@ img:hover{
   color: Gold;
 
 }
+=======
+h1{
+  color: Navy;
+  font-size: 50px;
+}
+
+img:hover{
+  background-color: Red;
+}
+
+/********************CLASS SELECTORS******************/
+.Baseball{
+  background-color: Gold;
+}
+.Trophy{
+  background-color: Navy;
+}
+
+.Circular{
+  border-radius: 25%
+}
+
+
+/*******************ID Selectors********************/
+
+#heading{
+  color: Gold;
+
+}
+>>>>>>> db279c60e515d99779747e3a303e78d683e2f2eb

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: grey;
   }
@@ -15,3 +16,22 @@ body {
     border-width: 5px;
     width: 5%;
 }
+=======
+body {
+  background-color: grey;
+  }
+
+  h1{
+    color:crimson;
+  }
+  h3{
+  color: crimson;
+  }
+  hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: crimson;
+    border-width: 5px;
+    width: 5%;
+}
+>>>>>>> db279c60e515d99779747e3a303e78d683e2f2eb
